@@ -14,3 +14,8 @@ public class Currency : MonoBehaviour
         
     }
 }
+
+public class MultiplayerCurrency : Currency
+{
+    
+}
